@@ -3,7 +3,7 @@ Hi All,
 
 Here is a Jquery library for creating dynamic tournament draw with these functionality.
 1. Create draw with dynamic values.
-2. Functionality of No-Match.
+2. Functionality of No-Match status.
 3. Functionality of show round name.
 4. Functionality of show school/club name of user
 5. Functionality of BYE, Walkover etc.
@@ -18,4 +18,4 @@ https://github.com/teijo/jquery-bracket
 Code Informatin:-
 Code have written in angularjs with the help of jquery.
 
-Updated things will be add soon.
+Updated things will be commit soon.
